@@ -53,10 +53,10 @@ Example JSON file (my-pizza.json):
 ## Pizza Schema
 A valid pizza must have:
 
-size (number): Diameter in inches (must be positive)
-crust (string): Either "stuffed" or "normal"
-isDeepDish (boolean, optional): Defaults to false
-toppings (array of strings, optional): Cannot include: candy, toothpaste, soap, or dirt
+size (number): Diameter in inches (must be positive)  
+crust (string): Either "stuffed" or "normal"  
+isDeepDish (boolean, optional): Defaults to false  
+toppings (array of strings, optional): Cannot include: candy, toothpaste, soap, or dirt  
 
 ## API
 ```
